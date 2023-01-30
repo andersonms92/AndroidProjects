@@ -1,4 +1,4 @@
-package com.myapps.spitzcolors
+package com.myapps.login
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
